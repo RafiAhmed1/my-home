@@ -1,0 +1,29 @@
+body{
+    font-family: 'Indie Flower', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Shizuru', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.lion{
+    color: darkmagenta;
+}
+section{
+    display: flex;
+}
+.tiger{
+    width: 50%;
+    padding-left: 10%;
+}
+.tiger img{
+width: 60%;
+}
+.link{
+  text-decoration: none;
+  background-image: linear-gradient(rgba(255, 0, 0, 0.596),rgba(0, 0, 255, 0.459));
+  padding: 10px 40px; 
+  color: whitesmoke;
+  font-weight: 800;
+  border-radius: 10px;
+}
